@@ -14,12 +14,6 @@ Planning: -
 3. Backend work
 4. Deployment 
 
-## Project link
-
-https://youtu.be/CUkggjNNoWs
-
-All parts available in playlist
-channel name  - codejay
 
 ## Installation
 
@@ -44,10 +38,3 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-## Home Proejct
-
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(58).png)
-
-## Prediction page
-
-![Test Image 1](https://github.com/codejay411/Fake_News_detection/blob/main/Screenshot%20(59).png)
